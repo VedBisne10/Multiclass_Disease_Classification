@@ -1,0 +1,2 @@
+Model,Accuracy,Macro F1,Weighted F1,Training Time (seconds)
+XGBoost - Balanced Weights,0.6612,0.3526235909190486,0.6635958227016733,92.06045627593994

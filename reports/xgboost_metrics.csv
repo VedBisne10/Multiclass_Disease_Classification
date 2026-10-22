@@ -1,0 +1,2 @@
+Model,Accuracy,Macro F1,Weighted F1,Training Time (seconds)
+XGBoost,0.6671,0.34456861731884364,0.6576697641436011,92.11110234260559
